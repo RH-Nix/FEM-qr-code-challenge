@@ -1,7 +1,7 @@
 ## Overview
 
 ### Screenshot
-[SC](./screenshot.jpg)
+![SC](./screenshot.jpg)
 
 ### Links
 
