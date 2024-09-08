@@ -5,10 +5,10 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [RH-Nix Solution](https://rh-nix.github.io/FEM-qr-code-challenge/)
 
 ## My process
-The HTML portion was easy. When it came to CSS specifically flexbox and media queries is where I spent alot of my time.
+The HTML portion was easy. When it came to CSS specifically flexbox it became a bit diffucult to move things around.
 
 ### Built with
 
@@ -19,7 +19,7 @@ The HTML portion was easy. When it came to CSS specifically flexbox and media qu
 - Mobile-first workflow
 
 ### What I learned
-I had the basics down but when it came to positioning items I got really stuck. I knew I wanted to use flexbox but I couldn't figure out the layout. Haven't finished my CSS study so I didn't know about media queries until starting this project. Really helped alot.
+How to use flexbox and position to move elements around. Margin: 0 auto to center elements horizontally
 
 ### Continued development
 
