@@ -1,7 +1,7 @@
 ## Overview
 
 ### Screenshot
-[SC](./screenshot.png)
+[SC](./screenshot.jpg)
 
 ### Links
 
