@@ -3,8 +3,10 @@
 }
 
 body{
+    min-height: 100svh;
     display: flex;
     flex-direction: column;
+    justify-content: center;
     font-family: Outfit, sans-serif;
     background-color: hsl(212, 45%, 89%);
 }
@@ -13,16 +15,15 @@ body{
     display: block;
     text-align: center;
     background-color: hsl(0deg, 0%, 100%);
-    margin: auto auto; /*center vertically. auto horizontally*/
-    max-width: 320px;
-    max-height: 500px;
+    margin-inline: auto; /*center vertically. auto horizontally*/
+    max-width: 20rem;
+    max-height: 31.25;
     border-radius: 6%;
 }
 
 img{
-    width: 100%;
     border-radius: 6%;
-    margin-top: 20px;
+    margin-top: 1.25rem;
 }
 
 figcaption{
@@ -33,16 +34,11 @@ figcaption{
 p {
     color: hsl(216, 15%, 48%);
     margin: 0 auto;
-    padding-bottom: 40px;
+    padding-bottom: 2.5rem;
     font-weight: 400;
-    width: 256px;
+    width: 16rem;
 }
 
-header{
-    position: relative;
-    margin: 0 auto;
-    padding-bottom: 40px;
-}
 
 div {
     position: fixed;
