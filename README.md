@@ -19,7 +19,7 @@ The HTML portion was easy. When it came to CSS specifically flexbox it became a 
 - Mobile-first workflow
 
 ### What I learned
-How to use flexbox and position to move elements around. Margin: 0 auto to center elements horizontally
+How to use flexbox to move elements around.
 
 ### Continued development
 
