@@ -31,11 +31,16 @@ img{
 
 figcaption{
     color: hsl(218, 44%, 22%);
+    line-height: 1.2;
+    font-size: 1.375rem;
     font-weight: 700;
 }
 
 p {
     color: hsl(216, 15%, 48%);
+    line-height: 1.4;
+    letter-spacing: 0.013em;
+    font-size: 0.938rem;
     font-weight: 400;
     width: 16rem;
 }
