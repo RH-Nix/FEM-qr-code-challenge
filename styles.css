@@ -18,13 +18,14 @@ body{
     margin-inline: auto; /*center vertically. auto horizontally*/
     max-width: 20rem;
     max-height: 31.25rem;
-    border-radius: 6%;
+    border-radius: 1.25rem;
+    padding: 0rem 1rem 2.5rem 1rem;
 }
 
 img{
-    max-width: 100%;
-    border-radius: 6%;
-    margin-top: 1.25rem;
+    position: relative;
+    right: 19%;
+    border-radius: 0.625rem;
 }
 
 figcaption{
@@ -34,14 +35,8 @@ figcaption{
 
 p {
     color: hsl(216, 15%, 48%);
-    margin: 0 auto;
-    padding-bottom: 2.5rem;
+    margin-inline: auto;
     font-weight: 400;
     width: 16rem;
 }
 
-
-div {
-    position: fixed;
-    bottom: 0;
-}
