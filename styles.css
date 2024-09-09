@@ -7,15 +7,18 @@ body{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
     font-family: Outfit, sans-serif;
     background-color: hsl(212, 45%, 89%);
 }
 
 .wrapper{
-    display: block;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     text-align: center;
     background-color: hsl(0deg, 0%, 100%);
-    margin-inline: auto; /*center vertically. auto horizontally*/
     max-width: 20rem;
     max-height: 31.25rem;
     border-radius: 1.25rem;
@@ -23,8 +26,6 @@ body{
 }
 
 img{
-    position: relative;
-    right: 19%;
     border-radius: 0.625rem;
 }
 
@@ -35,7 +36,6 @@ figcaption{
 
 p {
     color: hsl(216, 15%, 48%);
-    margin-inline: auto;
     font-weight: 400;
     width: 16rem;
 }
